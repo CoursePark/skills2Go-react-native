@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">3atM_bO-_fSpG0mMQrvk5D80MAOTVyYDyoMcM</string>
+    <string name="app_name">Skills2Go</string>
+</resources>

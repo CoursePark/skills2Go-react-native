@@ -1,0 +1,14 @@
+root: true
+extends:
+    - react-app
+    - bluedrop
+rules:
+    comma-dangle: 0
+    prefer-reflect: 0
+    quotes:
+        - error
+        - backtick
+    keyword-spacing: 0
+    object-curly-spacing: 0
+    strict-newline/strict-newline: 0
+    
